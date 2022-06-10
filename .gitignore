@@ -5,3 +5,4 @@ seeds/tldr
 
 
 .dendron.cache.*
+.DS_Store
